@@ -45,7 +45,7 @@
   <a href="https://open.spotify.com/user/mu62gz8b0zbvup8qb4n7nq495">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=mu62gz8b0zbvup8qb4n7nq495&count=5&unique=true" alt="Spotify recently played"  />
   </a>
-   <img width="360" src="https://64.media.tumblr.com/29ca9ac5fa6035281ea073b64b88481c/tumblr_pw3wraZr1t1tuin4wo1_1280.jpg"  />
+   <img width="357" src="https://64.media.tumblr.com/29ca9ac5fa6035281ea073b64b88481c/tumblr_pw3wraZr1t1tuin4wo1_1280.jpg"  />
 </div>
 ###
 
